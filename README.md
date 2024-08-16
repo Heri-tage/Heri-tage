@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Heri-tage
-- 👀 I’m interested in ...Programming 
-- 🌱 I’m currently learning ...Cloud engineering
-- 💞️ I’m looking to collaborate on ...Future projects
-- 📫 How to reach me ... thonaheritage@gmail.com
+- 😊 I’m a tech enthusiast and aspiring to become a cloud-native developer
+- 🌱 I’m currently learning ...Cloud engineering at AltSchool Frica
+- 💞️ I’m looking to collaborate on ...Future projects 
+- 📫 How to reach me ... thonairemide536@gmail.com
 - 😄 Pronouns: ...she😊
 <!---
 Heri-tage/Heri-tage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
